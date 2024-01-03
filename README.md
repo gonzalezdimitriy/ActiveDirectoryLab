@@ -35,12 +35,12 @@ Step Three: Download Windows 10 (64-bit) & Create ISO file <br/>
 Step Four: Download Windows Server 2019 ISO file <br/>
 <img src="https://i.imgur.com/WK3oJgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Step Five: Install Motherboard into Case via Screws  <br/>
-<img src="https://i.imgur.com/nu5KEAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Five: Open Oracle VM VirtualBox and create a virtual machine, this will be our computer that houses Windows server.  <br/>
+<img src="https://i.imgur.com/dLB8Nn7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Six: Install PSU into Case via screws  <br/>
-<img src="https://i.imgur.com/U3HA0yO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Six: Before opening "DC", adjust settings and enable a second network adapter to connect to the internal network   <br/>
+<img src="https://i.imgur.com/oZ5xY0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Seven: Wire Cables Through to Front , Cable Manage, and Plug in SATA Cable into SSD  <br/>
