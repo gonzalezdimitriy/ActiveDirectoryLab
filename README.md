@@ -32,13 +32,8 @@ Step Three: Download Windows 10 (64-bit) & Create ISO file <br/>
 <img src="https://i.imgur.com/rFvmnYK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Four: Install SSD into Case (Varies between case)  <br/>
-<img src="https://i.imgur.com/wa5vgH9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br/>
-<img src="https://i.imgur.com/9fPrz6u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+Step Four: Download Windows Server 2019 ISO file <br/>
+<img src="https://i.imgur.com/WK3oJgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Step Five: Install Motherboard into Case via Screws  <br/>
 <img src="https://i.imgur.com/nu5KEAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
