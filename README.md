@@ -58,8 +58,8 @@ Step Nine:Open DC and  open Adapter options. Rename networks "internet" and "xIn
 <img src="https://i.imgur.com/mgSxBLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Ten: Install the 8-pin Connector to give the CPU Power <br/>
-<img src="https://i.imgur.com/nV3r2JG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Ten: Rename this pc "DC" <br/>
+<img src="https://i.imgur.com/OPklHM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Eleven: Install the 3-pin Connectos to power on the Case Fans, CPU Cooler, and the CPU Coolers RGB <br/>
