@@ -19,17 +19,12 @@ In the lab I'm going to walk through how to create an Active Directory home lab 
 - <b>Server 2019</b> 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
-PC Parts: <br/>
-<img src="https://i.imgur.com/VoR6Gso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step One:Download Oracle VirtualBox & Extension package.  <br/>
+<img src="https://i.imgur.com/0sVk2cf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step One: Install CPU  <br/>
-<img src="https://i.imgur.com/KYImbNQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Step Two : Install CPU Cooler <br/>
-<img src="https://i.imgur.com/q2yLAL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Two : Follow onscreen-instructions until Oracle VirtualBox launches (see below) <br/>
+<img src="https://i.imgur.com/ptr7AWe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Three: Install RAM  <br/>
