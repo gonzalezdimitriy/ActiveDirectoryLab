@@ -69,8 +69,10 @@ Step Eleven: Add Active Directory Domain Services to "DC" <br/>
 <img src="https://i.imgur.com/D2N3Pm2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Twelve: Install the GPU and plug in the 8-Pin(6+2-Pin) <br/>
-<img src="https://i.imgur.com/h1pJAQT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Twelve: Do Post-deployment configuration. This creates the domain  <br/>
+<img src="https://i.imgur.com/mGFXdgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7t8UG9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2ao1ocn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Thirteen: Power on the PC to test <br/>
