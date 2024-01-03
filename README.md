@@ -15,7 +15,7 @@ In the lab I'm going to walk through how to create an Active Directory home lab 
 
 <h2>Environments Used<h2>
 
-- <b>Windows 10 (21H2)</b> 
+- <b>Windows 10 (22H2)</b> 
 - <b>Server 2019</b> 
 <h2>Lab walk-through:</h2>
 Below is a diagram of how this lab is going to be set up. In the diagram, you can see that there is going to be two seperate Network adapters connected to the Domain Controller. One will be used to connect to the internet while the other is used to connect to the private network (housing +1k users !!)  <br/>
@@ -28,8 +28,8 @@ Step Two : Follow onscreen-instructions until Oracle VirtualBox launches (see be
 <img src="https://i.imgur.com/ptr7AWe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Three: Install RAM  <br/>
-<img src="https://i.imgur.com/xCBQgDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Three: Download Windows 10 (64-bit) & Create ISO file <br/>
+<img src="https://i.imgur.com/rFvmnYK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Four: Install SSD into Case (Varies between case)  <br/>
