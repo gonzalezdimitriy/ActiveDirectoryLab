@@ -43,8 +43,8 @@ Step Six: Before opening "DC", adjust settings and enable a second network adapt
 <img src="https://i.imgur.com/oZ5xY0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Seven: Wire Cables Through to Front , Cable Manage, and Plug in SATA Cable into SSD  <br/>
-<img src="https://i.imgur.com/lPXZFMm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Seven: Launch VM, when asked to select ISO file, select Windows 2019 Server ISO file  <br/>
+<img src="https://i.imgur.com/868ojO9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Eight: Plug in Case Headers & SATA Cables <br/>
