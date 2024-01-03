@@ -54,16 +54,19 @@ Step Eight: Follow on-screen instructions, must pick Standard Evaulation (Deskto
 <img src="https://i.imgur.com/8qvIExg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Nine:Open DC and  open Adapter options. Rename networks "internet" and "xInternalx" respectively. Verify by checking which one is connected to the internet and which one has no connection <br/>
+Step Nine:Open DC and  open Adapter options. Rename networks "internet" and "xInternalx" respectively. Verify by checking which one is connected to the internet and which one has no connection. Adjust the IPV4 settings on "Internal" to match what's below  <br/>
 <img src="https://i.imgur.com/mgSxBLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SsufRHf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Ten: Rename this pc "DC" <br/>
 <img src="https://i.imgur.com/OPklHM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Eleven: Install the 3-pin Connectos to power on the Case Fans, CPU Cooler, and the CPU Coolers RGB <br/>
-<img src="https://i.imgur.com/IDkWFk7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Eleven: Add Active Directory Domain Services to "DC" <br/>
+<img src="https://i.imgur.com/PXXMvp8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y0aQ50T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D2N3Pm2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Twelve: Install the GPU and plug in the 8-Pin(6+2-Pin) <br/>
