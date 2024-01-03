@@ -47,9 +47,11 @@ Step Seven: Launch VM, when asked to select ISO file, select Windows 2019 Server
 <img src="https://i.imgur.com/868ojO9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Eight: Follow on-screen instructions, must pick Standard Evaulation (Desktop Experience) until Windows 2019 Server Begins to download <br/>
+Step Eight: Follow on-screen instructions, must pick Standard Evaulation (Desktop Experience) until Windows 2019 Server Begins to download. You can create your own password. <br/>
 <img src="https://i.imgur.com/xWZb16X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/xtfrZBP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NfUmCJH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8qvIExg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Nine: Install the 24-pin Connector to Give the Motherboad Power <br/>
