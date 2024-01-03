@@ -54,8 +54,8 @@ Step Eight: Follow on-screen instructions, must pick Standard Evaulation (Deskto
 <img src="https://i.imgur.com/8qvIExg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Nine: Install the 24-pin Connector to Give the Motherboad Power <br/>
-<img src="https://i.imgur.com/fqpn3Kj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Nine:Open DC and  open Adapter options. Rename networks "internet" and "xInternalx" respectively. Verify by checking which one is connected to the internet and which one has no connection <br/>
+<img src="https://i.imgur.com/mgSxBLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Ten: Install the 8-pin Connector to give the CPU Power <br/>
