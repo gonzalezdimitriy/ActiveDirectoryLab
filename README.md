@@ -73,6 +73,8 @@ Step Twelve: Do Post-deployment configuration. This creates the domain  <br/>
 <img src="https://i.imgur.com/mGFXdgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/7t8UG9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/2ao1ocn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The log-on screen should look like this after
+<img src="https://i.imgur.com/QHFU8XE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Thirteen: Power on the PC to test <br/>
