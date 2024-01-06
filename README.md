@@ -114,6 +114,18 @@ Step Seventeen: Now we're going to setup  a DHCP server, so we'll click on "Add 
 <img src="https://i.imgur.com/FER5sHy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Begin installation
 <img src="https://i.imgur.com/OTton8R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Eighteen: Go to tools and select DHCP to open up DHCP control panel
+<img src="https://i.imgur.com/t03QGPW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right click IPv4 and select "New Scope"
+<img src="https://i.imgur.com/lkqRPMw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When asked for Scope name, title it "172.16.0.100-200", fill in IP Address Range as shown below
+<img src="https://i.imgur.com/lo5htzU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+When asked for router IP address, we will put the "DC" servers IP address as shown below. Then click next until prompted to "finish"
+<img src="https://i.imgur.com/bvvUxzy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 
 <!--
