@@ -77,8 +77,11 @@ The log-on screen should look like this after
 <img src="https://i.imgur.com/QHFU8XE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Thirteen: Power on the PC to test <br/>
-<img src="https://i.imgur.com/Fj0AloL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Thirteen: Create Dedicated Domain Admin Account<br/>
+Open up Active Directory Users and Computers
+<img src="https://i.imgur.com/OVXlHhk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create new Organizational Unit and title it "_Admins"
+<img src="https://i.imgur.com/VvCmD7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Fourteen: Plug in Windows 11 USB and change Boot Priority to USB First, then restart PC
