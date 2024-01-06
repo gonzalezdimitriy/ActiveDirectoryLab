@@ -92,12 +92,22 @@ Step Fourteen: Log on with new admin account
 <img src="https://i.imgur.com/MGUz1GA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Fifteen: Follow On-Screen Steps to Download Windows 11
-<img src="https://i.imgur.com/XUnO87F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Fifteen: Now we're going to add RAS / NAT
+<img src="https://i.imgur.com/SO7AQIL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable Remote Access
+<img src="https://i.imgur.com/fwNZVKl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable Routing
+<img src="https://i.imgur.com/K687eEE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Begin Installation
+<img src="https://i.imgur.com/Pn8pCR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Sixteen: Windows is successfully installed !!
-<img src="https://i.imgur.com/bY606v8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Sixteen: Go to tools and select Routing and Remote Access
+<img src="https://i.imgur.com/RFCGKnd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Follow on screen instructions and enable Network Address Translation (NAT)
+<img src="https://i.imgur.com/xFdkMCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select interface titled "Internet", this allows internal clients to connect to the internet throught the "DC" server
+<img src="https://i.imgur.com/97vyYWU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
