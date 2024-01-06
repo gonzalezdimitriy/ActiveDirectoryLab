@@ -108,6 +108,12 @@ Follow on screen instructions and enable Network Address Translation (NAT)
 <img src="https://i.imgur.com/xFdkMCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Select interface titled "Internet", this allows internal clients to connect to the internet throught the "DC" server
 <img src="https://i.imgur.com/97vyYWU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Seventeen: Now we're going to setup  a DHCP server, so we'll click on "Add roles and features" like we have been to add everything else. We'll enable "DHCP server" when given the option to do so, as shown below
+<img src="https://i.imgur.com/FER5sHy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Begin installation
+<img src="https://i.imgur.com/OTton8R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
