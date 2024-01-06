@@ -82,10 +82,14 @@ Open up Active Directory Users and Computers
 <img src="https://i.imgur.com/OVXlHhk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Create new Organizational Unit and title it "_Admins"
 <img src="https://i.imgur.com/VvCmD7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a new user under "Admins" and title as shown using your own name, then follow on screen instructions
+<img src="https://i.imgur.com/zyOjC1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To make new account admin account, open up properties on new account and click "Member of", then click "add". Now type "Domain Admins" and Check Name. Finally, apply
+<img src="https://i.imgur.com/lbAkuGx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Fourteen: Plug in Windows 11 USB and change Boot Priority to USB First, then restart PC
-<img src="https://i.imgur.com/B5iVwl8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Fourteen: Log on with new admin account 
+<img src="https://i.imgur.com/MGUz1GA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step Fifteen: Follow On-Screen Steps to Download Windows 11
