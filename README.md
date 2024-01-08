@@ -128,10 +128,40 @@ IPv4 and IPv6 should both be green now (connected to the internet)
 <img src="https://i.imgur.com/Rh7EN3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Nineteen: Download Powershell Script this creates many different users
+Step Nineteen: Download Powershell Script. This creates many different users
 <img src="https://i.imgur.com/KVpUkPL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Add your name to the "names" folder within the extracted Powershell Scipt
 <img src="https://i.imgur.com/dDWMhVX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run Windows Powershell ISE as administrator
+<img src="https://i.imgur.com/rUsFXpL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open up the Powershell Script within the Powershell application and choose the "Create Users" file
+<img src="https://i.imgur.com/f5z00yZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run "Set-ExecutionPolicy Unrestricted" then select yes to all
+<img src="https://i.imgur.com/dubszY4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run "cd C:\users\a-YOURNAME\Desktop\AD_PS-master" , then run the script
+<img src="https://i.imgur.com/4IGUzQQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Users are being created
+<img src="https://i.imgur.com/C8X49R6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Users are created and are within the domain!! 
+<img src="https://i.imgur.com/8khfjWM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step twenty: Create new VM to represent a client on the Domain
+<img src="https://i.imgur.com/bz2USv8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change the network adapter to connect to the internal network
+<img src="https://i.imgur.com/Y7dKYfe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the Windows 10 ISO on it
+<img src="https://i.imgur.com/f3N0KLJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Windows 10 is being downloaded !!
+<img src="https://i.imgur.com/1gExOdP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step twenty one: Now wer're going to make sure the client can connect to the internet through the DC server, on the client VM, open up command prompt and ping google
+<img src="https://i.imgur.com/4nMCi2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step twenty two: Now wer're going to join the domain and rename the client! Click on rename this PC(advanced) in settings
+<img src="https://i.imgur.com/oNxm9vv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
