@@ -124,8 +124,14 @@ When asked for Scope name, title it "172.16.0.100-200", fill in IP Address Range
 <img src="https://i.imgur.com/lo5htzU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 When asked for router IP address, we will put the "DC" servers IP address as shown below. Then click next until prompted to "finish"
 <img src="https://i.imgur.com/bvvUxzy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
+IPv4 and IPv6 should both be green now (connected to the internet)
+<img src="https://i.imgur.com/Rh7EN3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Nineteen: Download Powershell Script this creates many different users
+<img src="https://i.imgur.com/KVpUkPL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add your name to the "names" folder within the extracted Powershell Scipt
+<img src="https://i.imgur.com/dDWMhVX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
