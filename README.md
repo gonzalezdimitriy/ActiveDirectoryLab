@@ -156,17 +156,17 @@ Windows 10 is being downloaded !!
 <img src="https://i.imgur.com/1gExOdP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step twenty one: Now wer're going to make sure the client can connect to the internet through the DC server, on the client VM, open up command prompt and ping google
+Step twenty one: Now we're going to make sure the client can connect to the internet through the DC server, on the client VM, open up command prompt and ping google
 <img src="https://i.imgur.com/4nMCi2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step twenty two: Now wer're going to join the domain and rename the client! Click on rename this PC(advanced) in settings
+Step twenty two: Now we're going to join the domain and rename the client! Click on rename this PC(advanced) in settings
 <img src="https://i.imgur.com/oNxm9vv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Input as shown below, then type in any user and password that is being used in the directory (yours should work as well )
 <img src="https://i.imgur.com/tuzbDlF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Now you're part of the domain!!
 <img src="https://i.imgur.com/newqyIP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-This is the user from the DC's POV (if there were any more users we created VMsfor and were active, they would appear here)
+This is the user from the DC's POV (if there were any more users we created VMs for and were active, they would appear here)
 <img src="https://i.imgur.com/VD0Erhi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
